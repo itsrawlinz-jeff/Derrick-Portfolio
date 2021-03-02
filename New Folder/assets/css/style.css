@@ -45,9 +45,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .card {
   border: none;
-  border-radius: 0; }
+  border-radius: 50%; }
   .card img {
-    border-radius: 0; }
+    border-radius: 50%; }
 
 header .card a, .vr-gallery a.btn {
   background-color: #03133a;
